@@ -154257,14 +154257,14 @@ entities:
     - type: Physics
       canCollide: False
     - type: InsideEntityStorage
-- proto: MagazineBoxMagnum
+- proto: ADTMagazineBoxMagnumLesser
   entities:
   - uid: 21078
     components:
     - type: Transform
       pos: 49.75043,-14.0822
       parent: 2
-- proto: MagazineBoxMagnumPractice
+- proto: ADTMagazineBoxMagnumLesserPractice
   entities:
   - uid: 21079
     components:

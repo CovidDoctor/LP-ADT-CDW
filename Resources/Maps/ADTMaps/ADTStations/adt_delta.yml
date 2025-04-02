@@ -186566,7 +186566,7 @@ entities:
     - type: Transform
       pos: -114.5,37.5
       parent: 2
-- proto: MagazineBoxMagnum
+- proto: ADTMagazineBoxMagnumLesser
   entities:
   - uid: 24307
     components:
@@ -186580,7 +186580,7 @@ entities:
     - type: Transform
       pos: 60.33274,7.545334
       parent: 2
-- proto: MagazineBoxMagnumPractice
+- proto: ADTMagazineBoxMagnumLesserPractice
   entities:
   - uid: 24308
     components:
